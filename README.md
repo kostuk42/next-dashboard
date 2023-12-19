@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+## Dashboard app
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Test app with authentication written in Next.js using React, PostgresDB, Tailwind
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+User credentials: user@nextmail.com, 123456
+
